@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+hi humans!
+
+i am iz69chua. i like games. and chicken rices
